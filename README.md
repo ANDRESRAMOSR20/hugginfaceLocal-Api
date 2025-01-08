@@ -9,7 +9,7 @@ Luego descargaremos la libreria de torch:
 ```bash
 pip install torch
 ```
-Despues crearemos el script utilizando la funcion pipeline que es para canalizar el modelo de modo que que prediga la siguiente cadena de texto del usuario, es el encargado de procesar el texto a numerico y luego mostrarlo a el usuario de una forma legible.
+Despues crearemos el script utilizando la funcion pipeline que es para canalizar el modelo, de modo que prediga la siguiente cadena de texto del usuario, es el encargado de procesar el texto a numerico y luego mostrarlo a el usuario de una forma legible.
 ```bash
 import torch
 from transformers import pipeline
