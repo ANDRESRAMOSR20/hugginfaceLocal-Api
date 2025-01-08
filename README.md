@@ -30,8 +30,8 @@ assistant_response = outputs[0]["generated_text"][-1]["content"].strip()
 print(assistant_response)
 ```
 # Requerimientos
--Una version Torch de +2.x
--Tiene que ser compatible con CUDA preferiblemente para su facil ejecucion, osea usando la GPU de Nvidia.
--Capacidad para almacenar 5GB de modelo.
+- Una version Torch de +2.x
+- Tiene que ser compatible con CUDA preferiblemente para su facil ejecucion, osea usando la GPU de Nvidia.
+- Capacidad para almacenar 5GB de modelo.
 # Ejemplos de Ejecucion:
 ![prueba!](img/pruebaLocal.png "ejecucion del model")
