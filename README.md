@@ -35,3 +35,13 @@ print(assistant_response)
 - Capacidad para almacenar 5GB de modelo.
 # Ejemplos de Ejecucion:
 ![prueba!](img/pruebaLocal.png "ejecucion del model")
+# Modelo llm con API(Serverless)
+## Integracion
+1. Comenzaremos dandole al click en la opcion de deploy en el apartado del proyecto escodigo de hugginface y le daremos en la opcion de inference api.
+2. Seleccionaremos el lenguaje para implementar de preferencia, en este caso python.
+3. Pegamos el codigo en un script, luego lo ejecutaremos con el comando:
+```bash
+python llm_api_1.py
+```
+## Ejemplo de ejecucion:
+
