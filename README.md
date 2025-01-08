@@ -44,4 +44,5 @@ print(assistant_response)
 python llm_api_1.py
 ```
 ## Ejemplo de ejecucion:
+![prueba2!](img/pruebaApiLlm.png "ejecucion del modelo llm con Api")
 
